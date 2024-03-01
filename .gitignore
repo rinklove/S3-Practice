@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+s3practice/gradlew
+s3practice/gradlew.bat
+s3practice/settings.gradle
+s3practice/gradle/wrapper/gradle-wrapper.jar
+s3practice/gradle/wrapper/gradle-wrapper.properties
+s3practice/src/main/resources/config/secret.yml
